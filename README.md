@@ -2,20 +2,10 @@
 
 > ZigZag developer challenge project
 
-## Build Setup
+안녕하세요 ZigZag 담당자님,
+더운 날씨 고생 많으십니다.
 
-``` bash
-# install dependencies
-npm install
+Live Page의 링크는 여기로 가시면 됩니다. -> ( https://sebinsong.github.io/zigzag-assignment/ )
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+결과와 상관없이 새로운 것을 많이 배워볼 수 있었던 좋은 기회였습니다.
+감사합니다. :)
