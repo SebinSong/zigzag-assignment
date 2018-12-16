@@ -4,14 +4,17 @@
 
 This is a small project that I did as a part of the interview process I had for a company called 'ZigZag', where
 I was required to create a little chatroom-like UI using a JS Framework of my choice.
-(I decided to include this work in my personal front-end portfolio since it doesn't contain any proprietary material or
- any information related to the company except for the name 'Zigzag').
+(
+This work resulted in me getting to the next round of the process and
+I decided to include this work in my personal front-end portfolio since it doesn't contain any proprietary material or
+any information related to the company except for the name 'Zigzag'
+).
 
 Few facts I would like to mention about this work:
 - Used Vue-cli and Vue-router
 - A folder named 'src' contains all the source codes
-- No backend goes on in this work so, If you type in your message and hit 'send' button, it will merely return
-  a series of gibberish created by mixing up all the letters of the message you just sent.
+- No backend goes on in this work so, If you type in your message, it will merely return
+  a series of gibberish words created by mixing up all the letters of the text you just sent.
   
 
 - Vue-Cli와 Vue-router를 툴로 이용하였습니다.
