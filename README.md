@@ -1,16 +1,18 @@
 # zigzag-chatroom
 
-> ZigZag developer challenge project
+> ZigZag developer challenge project ( Live Page Link:  https://sebinsong.github.io/zigzag-assignment/ )
 
-안녕하세요 ZigZag 담당자님,
-더운 날씨 고생 많으십니다.
+This is a small project that I did as a part of the interview process I had for a company called 'ZigZag', where
+I was required to create a little chatroom-like UI using a JS Framework of my choice.
+(I decided to include this work in my personal front-end portfolio since it doesn't contain any proprietary material or
+ any information related to the company except for the name 'Zigzag').
 
-Live Page의 링크는 여기로 가시면 됩니다. -> ( https://sebinsong.github.io/zigzag-assignment/ )
-
-결과와 상관없이 새로운 것을 많이 배워볼 수 있었던 좋은 기회였습니다.
-감사합니다. :)
-
-과제에 대한 부연설명을 드리면,
+Few facts I would like to mention about this work:
+- Used Vue-cli and Vue-router
+- A folder named 'src' contains all the source codes
+- No backend goes on in this work so, If you type in your message and hit 'send' button, it will merely return
+  a series of gibberish created by mixing up all the letters of the message you just sent.
+  
 
 - Vue-Cli와 Vue-router를 툴로 이용하였습니다.
 - Root Directory의 src 폴더에 작업에 쓰인 파일들이 모여 있습니다.
