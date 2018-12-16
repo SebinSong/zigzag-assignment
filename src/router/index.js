@@ -7,7 +7,7 @@ import Room from '@/components/Room'
 
 Vue.use(Router)
 
-export default new Router({
+export let router = new Router({
   routes: [
     {
       path: '/',
@@ -20,7 +20,14 @@ export default new Router({
       component: Room
     }
   ]
-})
+});
+
+router.beforeEach((to, from, next) => {
+
+  if(to.matched.length === 0) next(false);
+  else next();
+
+});
 
 /*
  - route example
