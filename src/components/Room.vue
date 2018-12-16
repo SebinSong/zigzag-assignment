@@ -137,6 +137,9 @@ export default {
     }
 
   },
+  created(){
+    if(!this.myProp) this.$router.replace({ path: '/' });
+  },
   mounted(){
     this.dialog = this.myProp.dialog;
 
